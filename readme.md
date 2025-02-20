@@ -63,7 +63,7 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 👨‍💻 Auteur
 
-Ton Prénom Nom - tonpseudo
+Raphael - raphael2618
 
 N'hésitez pas à me contacter pour toute question ou suggestion !
 
